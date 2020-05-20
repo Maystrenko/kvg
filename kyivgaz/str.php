@@ -216,7 +216,7 @@ div.mod_search246 input[type="search"]{ width:auto; }
   <p><span style="font-size: 20px;">Оплата за послугу розподілу АТ «КИЇВГАЗ»</span></p>-->
 <p></p>
 <p></p>
-<iframe id="ifr" src="https://docs.google.com/forms/d/e/1FAIpQLScZh0UFDDNvtG0ndXlZtq4sLqSe4Vr9pb_zspcqMDvNU4WqbQ/viewform" width="100%" height="1300px"  frameborder="0" scrolling="off"></iframe>
+<iframe id="ifr" src="https://docs.google.com/forms/d/e/1FAIpQLSdd0IjAD91ubZv2sPb5L2VUxJAGcFdPhRxzx-mqXlqsUhrOzg/viewform" width="100%" height="1300px"  frameborder="0" scrolling="off"></iframe>
 <p></p>
 	</div>
 
