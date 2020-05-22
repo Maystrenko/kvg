@@ -249,9 +249,7 @@ div.mod_search246 input[type="search"]{ width:auto; }
 					    <div class="jm-module-content clearfix notitle">
 
 
-<div class="custom">
-	<a href="/component/rsform/form/1-zvorotnyi-zv-iazok.html" class="shc sh_btn sh_btn_bottom sh_btn_bottom_right" id="sh_button">
-<div rel="title" class="shc sh_title_text">Залишити повідомлення</div>
+
 </a>
 </div>
 
