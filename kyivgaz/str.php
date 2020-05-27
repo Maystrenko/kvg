@@ -4,7 +4,7 @@
 <html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="uk-ua" lang="uk-ua" dir="ltr">
 <head>
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="viewport" content="width auto, initial-scale=1.0"/>
 
 	<base href="https://kyivgaz.ua/oplata-za-poslugi.html"/>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
@@ -216,7 +216,7 @@ div.mod_search246 input[type="search"]{ width:auto; }
   <p><span style="font-size: 20px;">Оплата за послугу розподілу АТ «КИЇВГАЗ»</span></p>-->
 <p></p>
 <p></p>
-<iframe id="ifr" src="https://docs.google.com/forms/d/e/1FAIpQLSdd0IjAD91ubZv2sPb5L2VUxJAGcFdPhRxzx-mqXlqsUhrOzg/viewform" width="100%" height="1300px"  frameborder="0" scrolling="off"></iframe>
+<iframe id="ifr" src="https://docs.google.com/forms/d/e/1FAIpQLSdd0IjAD91ubZv2sPb5L2VUxJAGcFdPhRxzx-mqXlqsUhrOzg/viewform" frameborder="0" scrolling="no" style="width: 100%; height: 1200px; "></iframe>
 <p></p>
 	</div>
 
