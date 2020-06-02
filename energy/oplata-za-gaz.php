@@ -203,11 +203,14 @@ var trackOutboundLink = function(url) {
 					<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12">
 								<div class="t3-module module " id="Mod129"><div class="module-inner"><div class="module-ct">
 
-<div class="custom">
-	<div class="phone">
-<p>+380 (44) 495-04-05</p>
-</div></div>
-</div></div></div>
+								<div class="custom">
+									<div class="phone">
+								<p>+380 (44) 495-04-05</p>
+								</div>
+								<div class="phone">
+								<p>+380 (97) 495-04-05</p>
+								</div></div>
+								</div></div></div>
 							</div>
 			</div>
 <!-- SPOTLIGHT -->					</div>
@@ -558,8 +561,7 @@ var trackOutboundLink = function(url) {
 
 					<p><font size="4"><b>ШВИДКО ТА ЗРУЧНО СПЛАТИТИ ЗА СПОЖИТИЙ ГАЗ МОЖНА ONLINE</b></font></p>
 
-					<p>Для оплати послуги розподілу природного газу перейдіть за посиланням <a href="https://kyivgaz.ua/oplata-za-poslugi.html">https://kyivgaz.ua/oplata-za-poslugi.html</a></p>
-						
+
 						<div class=row style=margin-left:0>
 								<div class="col-md-5 col-sm-3 col-xs-12 pull-left">
 									<!--Starrt frame-->
@@ -583,6 +585,7 @@ var trackOutboundLink = function(url) {
 														<FONT SIZE=3><SPAN LANG=uk-UA>повністю так, як у квитанціях на оплату – 10 символів</SPAN></FONT>
 												</FONT>
 										</P>
+
 										<div id=pay-modal class="modal fade" role=dialog>
 												<div class="modal-dialog modal-vertical-centered" style="margin-top:0;">
 														<!-- Modal content-->
@@ -629,6 +632,8 @@ var trackOutboundLink = function(url) {
 										</div>
 								</div>
 						</div>
+						<p>Для оплати послуги розподілу природного газу перейдіть за посиланням <a href="https://kyivgaz.ua/oplata-za-poslugi.html">https://kyivgaz.ua/oplata-za-poslugi.html</a></p>
+
 						<!--<table>
 																								<tbody>
 																										<tr style="height: 50px;">
@@ -905,6 +910,7 @@ var trackOutboundLink = function(url) {
 												</SPAN>
 										</FONT>
 								</FONT>
+
 						</P>
 <BR><BR>
 
