@@ -971,25 +971,28 @@ a.kyivgaz_faq{background: #73bae2; padding: 5px 10px; font-size: 16px; text-deco
 #dj-megamenu141 span.image-title { margin: 0;}
 
 div.gkGridElement  { image-rendering:-webkit-optimize-contrast!important;}
-.gkGrid-test8-1 {background: url('../images/grid/10.jpg'); background-size: cover; width: 100%; }
-.gkGrid-test3-1 {background: url('../images/grid/3.png'); background-size: cover; width: 100%;}
-.gkGrid-test6-1 {background: url('../images/grid/counter.jpg') top right; background-size: cover; width: 100%; }
-.gkGrid-test5-1 {background: url('../images/grid/2.jpg') top right; background-size: cover; width: 100%;}
-.gkGrid-test9-1 {background: url('../images/grid/104.jpg'); background-size: cover; width: 100%; }
-.gkGrid-test13-1 {background: url('../images/grid/6.jpg'); background-size: cover; width: 100%; }
-.gkGrid-test7-1 {background: url('../images/grid/7.jpg')top right; background-size: cover; width: 100%; }
+.gkGrid-test8-1 {background: url('../images/grid/8.jpg')top center; background-size: cover; width: 100%; }
+.gkGrid-test3-1 {background: url('../images/grid/3.png')top center; background-size: cover; width: 100%; }
+.gkGrid-test6-1 {background: url('../images/grid/counter.png') top center; background-size: cover; width: 100%; }
+.gkGrid-test5-1 {background: url('../images/grid/5.jpg') top center; background-size: cover; width: 100%; }
+.gkGrid-test9-1 {background: url('../images/grid/104.png')top center; background-size: cover; width: 100%; }
+.gkGrid-test13-1 {background: url('../images/grid/6.jpg')top center; background-size: cover; width: 100%; }
+.gkGrid-test7-1 {background: url('../images/grid/7.png')top center; background-size: cover; width: 100%; }
+.gkGrid-test11-1 {background: url('../images/grid/11.png')top center; background-size: cover; width: 100%; }
+.gkGrid-test10-1 {background: url('../images/grid/10.jpg')top center; background-size: cover; width: 100%; }
+.gkGrid-test2-1 {background: url('../images/grid/2.png')top center; background-size: cover; width: 100%; }
 .gkGridGK5Wrap {
     background:none!important;
 }
 
-.gkGrid-test1-1, .gkGrid-test2-1, .gkGrid-test10-1, .gkGrid-test11-1{
+.gkGrid-test1-1,   {
 	background: rgba(255,255,255, 0.9);
 	color: #666;
 	height: 100%;
 	padding: 0% 1%;
 }
 
-.gkGrid-test1-1  div.custom, .gkGrid-test2-1 div.custom, .gkGrid-test10-1 div.custom, .gkGrid-test11-1 div.custom{
+.gkGrid-test1-1  div.custom,    div.custom{
 	height: 100%;
 	display: table;
 	width: 100%;
@@ -997,7 +1000,7 @@ div.gkGridElement  { image-rendering:-webkit-optimize-contrast!important;}
 
 .vertical-middle {display: table-cell; vertical-align: middle; height: 100%;}
 
-.gkGrid-test2-1 a {color: #666;}
+
 .gkGrid-test4-1 {background-color: #b2b2b2; background-image: url('/images/facebook.png'); background-size: auto 100%;  background-position: center center; background-repeat: no-repeat;}
 .gkGrid-test4-1:hover { background-color: white; }
 .gkGrid-test4-1 a{margin: 0 auto;}
@@ -1005,10 +1008,13 @@ div.gkGridElement  { image-rendering:-webkit-optimize-contrast!important;}
 
 
 .gkGrid-test3-1 div.custom,
+.gkGrid-test2-1 div.custom,
 .gkGrid-test4-1 div.custom,
 .gkGrid-test5-1 div.custom,
 .gkGrid-test6-1 div.custom,
 .gkGrid-test7-1 div.custom,
+.gkGrid-test11-1 div.custom,
+.gkGrid-test10-1 div.custom,
 .gkGrid-test8-1 div.custom,
 .gkGrid-test9-1 div.custom {
     height: 100%;
@@ -1018,10 +1024,12 @@ div.gkGridElement  { image-rendering:-webkit-optimize-contrast!important;}
 }
 
 .gkGrid-test3-1 div.custom p,
+.gkGrid-test2-1 div.custom p,
 .gkGrid-test4-1 div.custom p,
 .gkGrid-test5-1 div.custom p,
 .gkGrid-test6-1 div.custom p,
 .gkGrid-test7-1 div.custom p,
+.gkGrid-test11-1 div.custom p,
 .gkGrid-test8-1 div.custom p,
 .gkGrid-test9-1 div.custom p{
     height: 100%;
@@ -1030,10 +1038,13 @@ div.gkGridElement  { image-rendering:-webkit-optimize-contrast!important;}
 }
 
 .gkGrid-test3-1 div.custom a,
+.gkGrid-test2-1 div.custom a,
 .gkGrid-test4-1 div.custom a,
 .gkGrid-test5-1 div.custom a,
 .gkGrid-test6-1 div.custom a,
 .gkGrid-test7-1 div.custom a,
+.gkGrid-test11-1 div.custom a,
+.gkGrid-test10-1 div.custom a,
 .gkGrid-test8-1 div.custom a,
 .gkGrid-test9-1 div.custom a {
 
@@ -1067,16 +1078,14 @@ div.gkGridElement  { image-rendering:-webkit-optimize-contrast!important;}
 .gkGrid-test1-1 .readmore {padding: 0px; border: none; color: #59addd;}
 .gkGrid-test1-1 h4 {font-size: 16px!important; color: #59addd; font-weight: bold!important; text-align: center;}
 
-.gkGrid-test11-1 h4 {color: #4f5861;}
-.gkGrid-test11-1 a {font-size: 20px; color: #4f5861;}
 
-.gkGrid-test2-1 .newsflash-title{font-size: 20px; margin-bottom: 15px;}
-.gkGrid-test2-1 {text-align: left;}
 
-.gkGrid-test11-1, .gkGrid-test6-1{z-index: 0!important;}
+
+
+ .gkGrid-test6-1{z-index: 0!important;}
 
 @media (max-width: 1200px) {
-	.gkGrid-test11-1 {background: #f1f1f1; color: #666;}
+
 }
 
 @media (max-width: 540px) {
@@ -1191,9 +1200,7 @@ div.gkGridElement  { image-rendering:-webkit-optimize-contrast!important;}
 
 .lichilniki a{display: block; font-size:16px; font-weight: bold; color: #4f5861; text-decoration: none;}
 
-.gkGrid-test2-1{
-    background: #fff;
-}
+
 
 .viklik-maystra {background: #4f5861; padding: 15px; color: #fff; font-size: 16px; text-align: center; margin-top: 10px;}
 .viklik-maystra a{color: #fff; text-decoration: underline;}
