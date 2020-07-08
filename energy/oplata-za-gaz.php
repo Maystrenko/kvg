@@ -633,7 +633,7 @@ var trackOutboundLink = function(url) {
 								</div>
 						</div>
 						<p>Для оплати послуги розподілу природного газу перейдіть за посиланням <a href="https://kyivgaz.ua/oplata-za-poslugi.html">https://kyivgaz.ua/oplata-za-poslugi.html</a></p>
-
+            <p>Якщо ви маєте заборгованість перед ПАТ «Київгаз» , яка накопичилася до червня 2015 року включно, її необхідно сплатити на окремий рахунок. Для цього <a href="https://next.privat24.ua/payments/form/%7B%22token%22:%227113031bd0c15b8e57a5bcef0e3257bc%22%7D?lang&quot; target=">перейдіть за посиланням</a>.</p>
 						<!--<table>
 																								<tbody>
 																										<tr style="height: 50px;">
