@@ -373,9 +373,6 @@ jQuery(document).ready( function(){ new DJMegaMenu(jQuery('#dj-megamenu141'), {w
 							</div>
 <div>Шановні абоненти!</div>
 <div>В особистому кабінеті на сайті АТ "Київгаз" ви можете передати показання газового лічильника, отримати інформацію стосовно газового обладнання</div>
-<p>Якщо виникають проблеми зі входом в особистий кабінет з браузера Firefox, необхідно налаштувати браузер Firefox​​. Деталі за посиланням:</p>
-<p><a href="https://support.mozilla.org/uk/kb/ne-vdalos-vstanoviti-bezpechne-zyednannya" target="_blank" rel="noopener noreferrer"> https://support.mozilla.org/uk/kb/ne-vdalos-vstanoviti-bezpechne-zyednannya </a></p>
-<p>Або для роботи в кабінеті можна скористатися іншими браузерами, наприклад: Chrome, Internet Explorer та інші.</p>
 <br>
 <br>
 <!--<div style="background: #73bae2; color: #fff; text-align: center; font-size: 20px; width: 100%; margin-top: 20px; line-hieght: 30px; padding: 5px;">Триває закриття періоду. Доступ до особистого кабінету буде відновлено 06 числа.</div>-->
