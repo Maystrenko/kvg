@@ -11,9 +11,9 @@
 
 	<base href="https://kyivgaz.ua/index.php/" />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="rights" content="ПАТ «Київгаз»" />
+	<meta name="rights" content="АТ «Київгаз»" />
 	<meta name="description" content="Забезпечення газом підприємств та населення міста. Новини, перелік послуг, тарифи, показники якості газу. Історія, центри обслуговування та контактна інформація." />
-	<title>ПАТ «Київгаз» – лідер серед 42 регіональних газових господарств України.</title>
+	<title>АТ «Київгаз» – лідер серед 42 регіональних газових господарств України.</title>
 	<link href="/components/com_k2/css/k2.css" rel="stylesheet" type="text/css" />
 	<link href="https://kyivgaz.ua/plugins/content/pdf_embed/assets/css/style.css" rel="stylesheet" type="text/css" />
 	<link href="https://kyivgaz.ua/media/ext_tss/assets/css/ext_tss.css" rel="stylesheet" type="text/css" />
@@ -401,6 +401,7 @@ document.getElementById("ifr").style.overflow=window.overflow+"visible";
 }
 </script>
 <iframe id="ifr" src="https://mynew.kyivgaz.ua/Account/Login?num=kievgas" width="100%" height="100%"  frameborder="0" scrolling="yes"></iframe>
+
 </div>
 <!-- END: Custom advanced --><!-- END: Modules Anywhere
 
