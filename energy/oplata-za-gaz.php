@@ -565,7 +565,7 @@ var trackOutboundLink = function(url) {
 						<div class=row style=margin-left:0>
 								<div class="col-md-5 col-sm-3 col-xs-12 pull-left">
 									<!--Starrt frame-->
-										<iframe src="https://mynew.kyivgaz.ua/Energy" width="95%" scrolling="no" frameborder="no"></iframe>
+										<iframe src="https://mynew.kyivgaz.ua/Payments/Consumption" width="95%" scrolling="no" frameborder="no"></iframe>
 										<!--End frame-->
 									</div>
 								<div style="padding-top:0px; padding-left: 83px" class="col-md-7 col-sm-4 col-xs-12 pull-left">
