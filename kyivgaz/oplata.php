@@ -591,13 +591,13 @@
                                                         <!--<button style="width:86%" class="btn-payment-link" type="submit" form="paymethodform"">Сплатити</button>-->
                                                         </p><font size="3"><b>Сплатити ОНЛАЙН</b></font><p>
                                                         </p><p></p><p>
-
+                                                          <button style="width:30%" class="btn-payment-link" type="submit" form="paymethodform" formaction="https://mynew.kyivgaz.ua/Payments/GetPage?PaySystem=Gerc">
+                                                              <img class="left-block" src="https://kyivgaz.ua/images/payments/gerc.png" />
+                                                          </button>
                                                             <button style="width:30%" class="btn-payment-link" type="submit" form="paymethodform" formaction="https://mynew.kyivgaz.ua/Payments/GetPage?PaySystem=Portmone">
                                                                 <img class="left-block" src="https://kyivgaz.ua/images/payments/portmone2.png" />
                                                             </button>
-                                                            <button style="width:30%" class="btn-payment-link" type="submit" form="paymethodform" formaction="https://mynew.kyivgaz.ua/Payments/GetPage?PaySystem=Gerc">
-                                                                <img class="left-block" src="https://kyivgaz.ua/images/payments/gerc.png" />
-                                                            </button>
+
 
                                                     </div>
                                                 </div>
