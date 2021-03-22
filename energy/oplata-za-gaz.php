@@ -569,7 +569,7 @@ var trackOutboundLink = function(url) {
 										<!--End frame-->
 									</div>
 								<div style="padding-top:0px; padding-left: 83px" class="col-md-7 col-sm-4 col-xs-12 pull-left">
-										<button data-toggle=modal href="#pay-modal" style="font-size:21px;line-height:4.0;width:4.0in;background-color:#9ea0a0;color: white;"><b>Сервіси прийому платежів</b></button>
+									<!--	<button data-toggle=modal href="#pay-modal" style="font-size:21px;line-height:4.0;width:4.0in;background-color:#9ea0a0;color: white;"><b>Сервіси прийому платежів</b></button>
 										<p></p>
 										<P STYLE="margin-bottom: 0in; line-height: 100%; ">
 												<b>2) ЧЕРЕЗ ІНТЕРНЕТ-СЕРВІСИ ПРИЙОМУ ПЛАТЕЖІВ</b>
@@ -584,7 +584,7 @@ var trackOutboundLink = function(url) {
 												<FONT COLOR="">
 														<FONT SIZE=3><SPAN LANG=uk-UA>повністю так, як у квитанціях на оплату – 10 символів</SPAN></FONT>
 												</FONT>
-										</P>
+										</P>-->
 
 										<div id=pay-modal class="modal fade" role=dialog>
 												<div class="modal-dialog modal-vertical-centered" style="margin-top:0;">
