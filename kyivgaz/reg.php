@@ -1,7 +1,8 @@
 
 
+
 <!DOCTYPE html>
-<html  prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="uk-ua" lang="uk-ua" dir="ltr">
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="uk-ua" lang="uk-ua" dir="ltr">
 <head>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -11,7 +12,7 @@
 	<meta name="rights" content="АТ «Київгаз»"/>
 	<meta name="description" content="Забезпечення газом підприємств та населення міста. Новини, перелік послуг, тарифи, показники якості газу. Історія, центри обслуговування та контактна інформація."/>
 	<title></title>
-	<link href="https://kyivgaz.ua/component/search/?Itemid=1084&amp;format=opensearch" rel="search"
+	<link href="https://kyivgaz.ua/component/search/?Itemid=1084&amp;format=opensearch" rel="search" title="Пошук АТ «Київгаз» – лідер серед 42 регіональних газових господарств України." type="application/opensearchdescription+xml"/>
 	<link href="/components/com_k2/css/k2.css" rel="stylesheet" type="text/css"/>
 	<link href="https://kyivgaz.ua/plugins/content/pdf_embed/assets/css/style.css" rel="stylesheet" type="text/css"/>
 	<link href="https://kyivgaz.ua/media/ext_tss/assets/css/ext_tss.css" rel="stylesheet" type="text/css"/>
@@ -28,6 +29,7 @@
 	<link href="/media/djextensions/css/animate.ext.css" rel="stylesheet" type="text/css"/>
 	<link href="/templates/jm-financial-services/css/djmegamenu.20.css" rel="stylesheet" type="text/css"/>
 	<style type="text/css">
+
 a.thumbnail {display: inline-block; zoom: 1; *display: inline;}
 .cloaked_email span:before { content: attr(data-ep-a86a9); } .cloaked_email span:after { content: attr(data-ep-b3e1b); }
 li.item-842 { display: none !important; }
@@ -64,7 +66,7 @@ div.mod_search246 input[type="search"]{ width:auto; }
 	<script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
 	<script src="/modules/mod_djmegamenu/assets/js/jquery.djmegamenu.js.pagespeed.jm.zKFWwDG0Qh.js" type="text/javascript"></script>
 	<script type="text/javascript">(function(d){var js,id='powr-js',ref=d.getElementsByTagName('script')[0];if(d.getElementById(id)){return;}js=d.createElement('script');js.id=id;js.async=true;js.src='https://kyivgaz.ua/plugins/content/powrshortcodes/powr_joomla.js';js.setAttribute('powr-token','PIkQD4QGRy1524744925');js.setAttribute('external-type','joomla');ref.parentNode.insertBefore(js,ref);}(document));var elle_sliders_nfa=0;jQuery(window).on('load',function(){new JCaption('img.caption');});var emailProtector=emailProtector||{};emailProtector.addCloakedMailto=function(g,l){var h=document.querySelectorAll("."+g);for(i=0;i<h.length;i++){var b=h[i],k=b.getElementsByTagName("span"),e="",c="";b.className=b.className.replace(" "+g,"");for(var f=0;f<k.length;f++)for(var d=k[f].attributes,a=0;a<d.length;a++)0===d[a].nodeName.toLowerCase().indexOf("data-ep-a")&&(e+=d[a].value),0===d[a].nodeName.toLowerCase().indexOf("data-ep-b")&&(c=d[a].value+c);if(!c)break;b.innerHTML=e+c;if(!l)break;b.parentNode.href="mailto:"+e+c}};jQuery(function($){SqueezeBox.initialize({});SqueezeBox.assign($('a.modal').get(),{parse:'rel'});});window.jModalClose=function(){SqueezeBox.close();};document.onreadystatechange=function(){if(document.readyState=='interactive'&&typeof tinyMCE!='undefined'&&tinyMCE){if(typeof window.jModalClose_no_tinyMCE==='undefined'){window.jModalClose_no_tinyMCE=typeof(jModalClose)=='function'?jModalClose:false;jModalClose=function(){if(window.jModalClose_no_tinyMCE)window.jModalClose_no_tinyMCE.apply(this,arguments);tinyMCE.activeEditor.windowManager.close();};}if(typeof window.SqueezeBoxClose_no_tinyMCE==='undefined'){if(typeof(SqueezeBox)=='undefined')SqueezeBox={};window.SqueezeBoxClose_no_tinyMCE=typeof(SqueezeBox.close)=='function'?SqueezeBox.close:false;SqueezeBox.close=function(){if(window.SqueezeBoxClose_no_tinyMCE)window.SqueezeBoxClose_no_tinyMCE.apply(this,arguments);tinyMCE.activeEditor.windowManager.close();};}}};jQuery(function($){$('.hasTip').each(function(){var title=$(this).attr('title');if(title){var parts=title.split('::',2);var mtelement=document.id(this);mtelement.store('tip:title',parts[0]);mtelement.store('tip:text',parts[1]);}});var JTooltips=new Tips($('.hasTip').get(),{"maxTitleChars":50,"fixed":false});});var elle_sliders_nfa=0;jQuery(document).ready(function(){new DJMegaMenu(jQuery('#dj-megamenu141'),{wrap:'jm-djmenu',animIn:'fadeInUp',animOut:'fadeOutDown',animSpeed:'normal',delay:500,event:'mouseenter',fixed:0,offset:0});});</script>
-	<meta property="og:image" content="https://kyivgaz.ua/images/li4il/li4ilnik1.jpg"/>
+	<meta property="og:image" content=""/>
 
 
 
@@ -80,6 +82,7 @@ div.mod_search246 input[type="search"]{ width:auto; }
 <link href='/templates/jm-financial-services/fonts/font-awesome/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
 
 <style>
+
 @media (max-width: 767px) {
             /*xs*/
            #frameKg{
@@ -88,6 +91,7 @@ div.mod_search246 input[type="search"]{ width:auto; }
 			   height:100%;
 			   max-height: 2450px;
 			   min-height: 2250px;
+         background: #f8f8f8!important;
 
 		   }
 
@@ -143,13 +147,7 @@ div.mod_search246 input[type="search"]{ width:auto; }
 
         }
 </style>
-<script>
-window.onmessage = function(event){
-    if (event.data == 'reply') {
-        console('Reply received!');
-    }
-};
-</script>
+<script>window.onmessage=function(event){if(event.data=='reply'){console('Reply received!');}};</script>
 
 
 <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-96666234-1','auto');ga('send','pageview');</script>
@@ -219,7 +217,7 @@ window.onmessage = function(event){
     </div>
     <div class="jm-module-raw  main-menu">
         <ul id="dj-megamenu141" class="dj-megamenu ">
-<li class="dj-up itemid789 first"><a class="dj-up_a  " href="/"><span>Головна</span></a></li><li class="dj-up itemid870 active parent separator"><a class="dj-up_a active "><span class="dj-drop">Послуги </span></a><div class="dj-subwrap single_column subcols1"><div class="dj-subwrap-in" style="width:200px"><div class="dj-subcol" style="width:200px"><ul class="dj-submenu"><li class="itemid885 first"><a href="/posluhy-kompanii/vrizka-gazoprovodiv.html">Газифікація</a></li><li class="itemid884"><a href="/posluhy-kompanii/montazh-ta-tekhnichne-obslugovuvannya-gazovikh-lichilnikiv.html">Газові лічильники</a></li><li class="itemid1084 current active"><a class="active " href="/posluhy-kompanii/bloky-telemetriyi-dlya-indyvidualnykh-lichylnykiv.html">Телеметрія для лічильників</a></li><li class="itemid886"><a href="/posluhy-kompanii/pidgotovka-tekhnichnikh-umov-ta-proektnoji-dokumentatsiji.html">Технічні умови</a></li><li class="itemid976"><a href="/posluhy-kompanii/proektna-dokumentaciya.html">Проектна документація</a></li><li class="itemid993"><a href="/posluhy-kompanii/servisne-ta-tekhnichne-obslugovuvannya-obladnannya-kotelen.html">Обслуговування котелень</a></li><li class="itemid997"><a href="/posluhy-kompanii/metrologichni-roboti.html">Метрологічні роботи</a></li><li class="itemid995"><a href="/posluhy-kompanii/burovi-roboti-ta-burinnya-sverdlovin.html">Бурові роботи</a></li><li class="itemid998"><a href="/posluhy-kompanii/zakhist-gazoprovodiv-vid-koroziji.html">Захист газопроводів від корозії</a></li><li class="itemid1000"><a href="/posluhy-kompanii/obslugovuvannya-gazovogo-obladnannya-pidvishchenoji-skladnosti.html">Обслуговування газового обладнання підвищеної складності</a></li><li class="itemid1001"><a href="/posluhy-kompanii/obslugovuvannya-gazoprovodiv.html">Обслуговування газопроводів</a></li><li class="itemid1014"><a href="/posluhy-kompanii/budivnitstvo-gazoprovodiv.html">Будівельно-монтажні роботи з газифікації</a></li></ul></div><div style="clear:both;height:0"></div></div></div></li><li class="dj-up itemid790 parent"><a class="dj-up_a  " href="/kliientam.html"><span class="dj-drop">Клієнтам</span></a><div class="dj-subwrap multiple_cols subcols3"><div class="dj-subwrap-in" style="width:750px"><div class="dj-subcol" style="width:270px"><ul class="dj-submenu"><li class="itemid794 first separator withmodule"><div class="modules-wrap">		<div class="moduletable">
+<li class="dj-up itemid789 first"><a class="dj-up_a  " href="/"><span>Головна</span></a></li><li class="dj-up itemid870 active parent separator"><a class="dj-up_a active "><span class="dj-drop">Послуги </span></a><div class="dj-subwrap single_column subcols1"><div class="dj-subwrap-in" style="width:200px"><div class="dj-subcol" style="width:200px"><ul class="dj-submenu"><li class="itemid885 first"><a href="/posluhy-kompanii/vrizka-gazoprovodiv.html">Газифікація</a></li><li class="itemid884"><a href="/posluhy-kompanii/montazh-ta-tekhnichne-obslugovuvannya-gazovikh-lichilnikiv.html">Газові лічильники</a></li><li class="itemid1084 current active"><a class=" " href="/posluhy-kompanii/bloky-telemetriyi-dlya-indyvidualnykh-lichylnykiv.html">Телеметрія для лічильників</a></li><li class="itemid886"><a href="/posluhy-kompanii/pidgotovka-tekhnichnikh-umov-ta-proektnoji-dokumentatsiji.html">Технічні умови</a></li><li class="itemid976"><a href="/posluhy-kompanii/proektna-dokumentaciya.html">Проектна документація</a></li><li class="itemid993"><a href="/posluhy-kompanii/servisne-ta-tekhnichne-obslugovuvannya-obladnannya-kotelen.html">Обслуговування котелень</a></li><li class="itemid997"><a href="/posluhy-kompanii/metrologichni-roboti.html">Метрологічні роботи</a></li><li class="itemid995"><a href="/posluhy-kompanii/burovi-roboti-ta-burinnya-sverdlovin.html">Бурові роботи</a></li><li class="itemid998"><a href="/posluhy-kompanii/zakhist-gazoprovodiv-vid-koroziji.html">Захист газопроводів від корозії</a></li><li class="itemid1000"><a href="/posluhy-kompanii/obslugovuvannya-gazovogo-obladnannya-pidvishchenoji-skladnosti.html">Обслуговування газового обладнання підвищеної складності</a></li><li class="itemid1001"><a href="/posluhy-kompanii/obslugovuvannya-gazoprovodiv.html">Обслуговування газопроводів</a></li><li class="itemid1014"><a href="/posluhy-kompanii/budivnitstvo-gazoprovodiv.html">Будівельно-монтажні роботи з газифікації</a></li></ul></div><div style="clear:both;height:0"></div></div></div></li><li class="dj-up itemid790 parent"><a class="dj-up_a  " href="/kliientam.html"><span class="dj-drop">Клієнтам</span></a><div class="dj-subwrap multiple_cols subcols3"><div class="dj-subwrap-in" style="width:750px"><div class="dj-subcol" style="width:270px"><ul class="dj-submenu"><li class="itemid794 first separator withmodule"><div class="modules-wrap">		<div class="moduletable">
 						<ul class="nav menu">
 <li class="item-688"><a href="/oplata-za-poslugi.html">Оплата за розподіл газу</a></li><li class="item-689"><a href="/korisna-informatsiya.html">Поширені запитання</a></li><li class="item-690"><a href="/prava-spozhivacha.html">Права та обов'язки споживача</a></li><li class="item-700"><a href="/tsentri-obslugovuvannya.html">Управління</a></li><li class="item-819"><a href="/zvorotnij-zv-yazok.html">Зворотній зв'язок</a></li><li class="item-978"><a href="/operativna-informatsiya.html">Оперативна інформація</a></li><li class="item-1059"><a href="/peredacha-pokazan-gazovogo2-lichilnika.html">Передати показання газового лічильника</a></li><li class="item-1063"><a href="/systema-dystantsiynoyi-peredachi-danykh-z-vuliv-obliku-pryrodnoho-hazu.html">СИСТЕМА ДИСТАНЦІЙНОЇ ПЕРЕДАЧІ ДАНИХ З ВУЗЛІВ ОБЛІКУ ПРИРОДНОГО ГАЗУ</a></li><li class="item-1068"><a href="/ukladannya-dohovoru.html">Договір на розподіл газу</a></li></ul>		</div>
 	</div></li></ul></div><div class="dj-subcol" style="width:270px"><ul class="dj-submenu"><li class="itemid797 first separator withmodule"><div class="modules-wrap"></div></li></ul></div><div class="dj-subcol" style="width:210px"><ul class="dj-submenu"><li class="itemid795 first separator withmodule"><div class="modules-wrap">		<div class="moduletable">
@@ -277,23 +275,15 @@ window.onmessage = function(event){
 
 
 			<div class="page-header">
-		<h2 itemprop="name">
-												</h2>
+		<center><h2 itemprop="name"> ЗАЯВКА НА ЗМІНУ КІЛЬКОСТІ ЗАРЕЄСТРОВАНИХ ОСІБ
+    </h2></center>
 							</div>
 
-
-
-
 								<div id="articleKg" itemprop="articleBody" style="margin:auto;">
-									<iframe  align="absmiddle"  id="frameKg" src="https://kyivgaz.ua/forma/Index6.html" frameborder="0" scrolling="no" width="96%" style="overflow: hidden; height:100%"></iframe>
-<script>
-window.onmessage = function(event){
-    if (event.data == 'reply') {
-        console.log('Reply received!');
-		window.scrollTo(0, 0);
-    }
-};
-</script>
+<p>Повідомляйте протягом місяця про зміни, що відбулися у складі вашої родини. Зміни у нарахування будуть внесені з дати Вашого звернення. Це стосується виключно постійної реєстрації. У разі тимчасового непроживання звертайтеся будь-ласка із відповідною заявою до служби підтримки через особистий кабінет або @KyivgazSupport в мережі Telegram
+</p>
+									<iframe src="https://kyivgaz.ua/forma/PersonsNumberForm.html" width="100%" height="800" scrolling="yes" frameborder="no" id="iFrameResizer0" style="overflow: hidden;"></iframe>
+<script>window.onmessage=function(event){if(event.data=='reply'){console.log('Reply received!');window.scrollTo(0,0);}};</script>
 			</div>
 
 
@@ -339,8 +329,11 @@ window.onmessage = function(event){
 <div class="custom">
 	<div class="jm-bottom-box">
 <div class="icon"><a href="/kontakt-tsentr.html"><img src="/images/modules/icons/footer_phone.png" alt=""/></a></div>
-<div class="content"><span class="title jm-color">Контакт-центр </span><span class="desc">(044) 495-04-04;(097) 495-11-04;contact@kyivgaz.ua</span></div>
-
+<div class="content"><span class="title jm-color">Контакт-центр </span><span class="desc">(044) 495-04-04;</span></div>
+<p></p>
+<div class="content"><span class="desc">(097) 495-11-04;</span></div>
+<p></p>
+<div class="content"><span class="desc"><!-- Цю адресу електронної пошти захищено від спам-ботів. --><span class="cloaked_email ep_997349e9"><span data-ep-b3e1b=".&#117;&#97;" data-ep-a86a9="co&#110;"><span data-ep-a86a9="&#116;&#97;&#99;" data-ep-b3e1b="&#103;&#97;z"><span data-ep-a86a9="t&#64;k" data-ep-b3e1b="&#121;&#105;v"></span></span></span></span><script type="text/javascript">emailProtector.addCloakedMailto("ep_997349e9",0);</script></span></div>
 </div></div>
 
 		    </div>
