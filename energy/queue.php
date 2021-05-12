@@ -1,4 +1,4 @@
-
+f
 
 <!DOCTYPE html>
 <html lang="uk-ua" dir="ltr" class='com_content view-article itemid-122 j39 mm-hover '>
@@ -11,21 +11,21 @@
 	<meta name="generator" content="Joomla! - Open Source Content Management"/>
 	<title>Електронна черга</title>
 	<link href="/templates/ja_nuevo/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
-	<link href="/templates/ja_nuevo/css/A.bootstrap.css.pagespeed.cf.ogCOnE6t-y.css" rel="stylesheet" type="text/css"/>
-	<link href="/media/plg_system_browserupdatewarning/css/A.BrowserUpdateWarning.css.pagespeed.cf.6t7M00UdlB.css" rel="stylesheet" type="text/css"/>
-	<link href="/media/ext_tss/assets/css/A.ext_tss.css.pagespeed.cf.6sT8Wdnj8W.css" rel="stylesheet" type="text/css"/>
-	<link href="/media/plg_content_mavikthumbnails/highslide/A.highslide.css.pagespeed.cf.A4CG7fHQH2.css" rel="stylesheet" type="text/css"/>
-	<link href="/components/com_rsform/assets/calendar/A.calendar.css.pagespeed.cf.lC5-2qeOhp.css" rel="stylesheet" type="text/css"/>
-	<link href="/components/com_rsform/assets/css/A.front.css.pagespeed.cf.XlXOU0gYEw.css" rel="stylesheet" type="text/css"/>
+	<link href="/templates/ja_nuevo/css/A.bootstrap.css" rel="stylesheet" type="text/css"/>
+	<link href="/media/plg_system_browserupdatewarning/css/A.BrowserUpdateWarning.css" rel="stylesheet" type="text/css"/>
+	<link href="/media/ext_tss/assets/css/A.ext_tss.css" rel="stylesheet" type="text/css"/>
+	<link href="/media/plg_content_mavikthumbnails/highslide/A.highslide.css" rel="stylesheet" type="text/css"/>
+	<link href="/components/com_rsform/assets/calendar/A.calendar.css" rel="stylesheet" type="text/css"/>
+	<link href="/components/com_rsform/assets/css/A.front.css" rel="stylesheet" type="text/css"/>
 	<style>@import url(/media/system/css/system.css);.system-unpublished,tr.system-unpublished{background:#e8edf1;border-top:4px solid #c4d3df;border-bottom:4px solid #c4d3df}span.highlight{background-color:#ffc;font-weight:bold;padding:1px 0}.img-fulltext-float-right{float:right;margin-left:10px;margin-bottom:10px}.img-fulltext-float-left{float:left;margin-right:10px;margin-bottom:10px}.img-fulltext-float-none{}.img-intro-float-right{float:right;margin-left:5px;margin-bottom:5px}.img-intro-float-left{float:left;margin-right:5px;margin-bottom:5px}.img-intro-float-none{}</style>
-	<link href="/templates/ja_nuevo/css/A.template.css.pagespeed.cf.R3e76tcE2a.css" rel="stylesheet" type="text/css"/>
-	<link href="/templates/ja_nuevo/css/A.megamenu.css.pagespeed.cf.TZXNpHh5Ia.css" rel="stylesheet" type="text/css"/>
-	<link href="/templates/ja_nuevo/css/A.off-canvas.css.pagespeed.cf.qMXmY9esi1.css" rel="stylesheet" type="text/css"/>
-	<link href="/templates/ja_nuevo/fonts/font-awesome/css/A.font-awesome.min.css.pagespeed.cf.jCBTFKvXwc.css" rel="stylesheet" type="text/css"/>
+	<link href="/templates/ja_nuevo/css/A.template.css" rel="stylesheet" type="text/css"/>
+	<link href="/templates/ja_nuevo/css/A.megamenu.css" rel="stylesheet" type="text/css"/>
+	<link href="/templates/ja_nuevo/css/A.off-canvas.css" rel="stylesheet" type="text/css"/>
+	<link href="/templates/ja_nuevo/fonts/font-awesome/css/A.font-awesome.min.css" rel="stylesheet" type="text/css"/>
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,600italic,400italic,300italic" rel="stylesheet" type="text/css"/>
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css"/>
-	<link href="/templates/ja_nuevo/css/A.custom.css.pagespeed.cf.la1MutHBmW.css" rel="stylesheet" type="text/css"/>
-	<link href="/templates/ja_nuevo/css/A.print.css.pagespeed.cf.Dya0taFWTs.css" rel="stylesheet" type="text/css"/>
+	<link href="/templates/ja_nuevo/css/A.custom.css" rel="stylesheet" type="text/css"/>
+	<link href="/templates/ja_nuevo/css/A.print.css" rel="stylesheet" type="text/css"/>
 	<style>div.mod-languages ul{margin:0;padding:0;list-style:none}div.mod-languages li{margin-left:5px;margin-right:5px}div.mod-languages ul.lang-inline li{display:inline}div.mod-languages ul.lang-block li{display:block}div.mod-languages img{border:none}div.mod-languages a{text-decoration:none}</style>
 	<style type="text/css">a.thumbnail{display:inline-block;zoom:1;*display: inline}</style>
 	<script type="application/json" class="joomla-script-options new">{"csrf.token":"d80709f6a3c50b2e8db7f4d0fb1762d7","system.paths":{"root":"","base":""},"joomla.jtext":{"PLG_SYS_BROWSERUPDATEWARNING_JS_TIMETOUPGRADE":"It&#39;s time to upgrade your browser.","PLG_SYS_BROWSERUPDATEWARNING_JS_UPDATECURRENT":"Click here to update your current browser","PLG_SYS_BROWSERUPDATEWARNING_JS_IE":"Download Internet Explorer","PLG_SYS_BROWSERUPDATEWARNING_JS_SAFARI":"Download Safari","PLG_SYS_BROWSERUPDATEWARNING_JS_FIREFOX":"Download Firefox","PLG_SYS_BROWSERUPDATEWARNING_JS_CHROME":"Download Chrome","PLG_SYS_BROWSERUPDATEWARNING_JS_OPERA":"Download Opera","PLG_SYS_BROWSERUPDATEWARNING_JS_WHYSHOULDI":"Why you should update:","PLG_SYS_BROWSERUPDATEWARNING_JS_WHYFASTER":"Websites load faster","PLG_SYS_BROWSERUPDATEWARNING_JS_WHYSAFER":"Safer Browsing","PLG_SYS_BROWSERUPDATEWARNING_JS_WHYRENDER":"Websites render correctly","PLG_SYS_BROWSERUPDATEWARNING_JS_WHYMORE":"Other great features","PLG_SYS_BROWSERUPDATEWARNING_JS_CONTINUE":"Continue"}}</script>
