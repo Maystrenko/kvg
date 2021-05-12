@@ -280,9 +280,17 @@ div.mod_search246 input[type="search"]{ width:auto; }
 							</div>
 
 								<div id="articleKg" itemprop="articleBody" style="margin:auto;">
-<p>Повідомляйте протягом місяця про зміни, що відбулися у складі вашої родини. Зміни у нарахування будуть внесені з дати Вашого звернення. Це стосується виключно постійної реєстрації. У разі тимчасового непроживання звертайтеся будь-ласка із відповідною заявою до служби підтримки через особистий кабінет або @KyivgazSupport в мережі Telegram
-</p>
-									<iframe src="https://kyivgaz.ua/forma/PersonsNumberForm.html" width="96%" height="800" scrolling="yes" frameborder="no" id="iFrameResizer0" style="overflow: hidden;"></iframe>
+									<p>
+									    Заповніть дану форму у разі, якщо у квартирі (будинку) зареєструвалася або
+									    знялася з реєстрації особа. Повідомляти про зміни у складі сім'ї необхідно
+									    АТ "Київгаз"​ протягом місяця.
+								
+									<strong>
+									    При повідомленні про зменшення кількості осіб, що користуються газом, з
+									    порушенням вказаного терміну – зміни у нарахування вносяться з місяця
+									    повідомлення АТ "Київгаз".
+									</strong></p>
+									<iframe src="https://kyivgaz.ua/forma/PersonsNumberForm.html" width="100%" height="800" scrolling="yes" frameborder="no" id="iFrameResizer0" style="overflow: hidden;"></iframe>
 <script>window.onmessage=function(event){if(event.data=='reply'){console.log('Reply received!');window.scrollTo(0,0);}};</script>
 			</div>
 
