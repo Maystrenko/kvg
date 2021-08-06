@@ -651,6 +651,49 @@ var trackOutboundLink = function(url) {
           </div>
       </div>
   </div>
+	<p>
+    <strong>У ВІДДІЛЕННІ БАНКУ ЧИ УКРПОШТИ </strong>
+    готівкою
+</p>
+<p>
+    (квитанцію на оплату можна роздрукувати в
+    <a
+        href="https://energy.kyivgaz.ua/abonentam/osobistij-kabinet.html"
+        target="_blank"
+    >
+        <strong></strong>
+    </a>
+    <strong>
+        <a href="https://cabinet-energy.kyivgaz.ua/" target="_blank">
+            <strong>особистому кабінеті</strong>
+        </a>
+    </strong>
+    <strong>)</strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong>ЧЕРЕЗ ПЛАТІЖНІ ТЕРМІНАЛИ </strong>
+    за адресами:
+</p>
+<ul dir="">
+    <li>
+        вул. Василенка 5,
+    </li>
+    <li>
+        вул. Електротехнічна 9,
+    </li>
+    <li>
+        вул. Володимирська 49-А, секція 7, оф. 415,
+    </li>
+    <li>
+        вул. Білицька 45
+    </li>
+    <li>
+        в усіх відділеннях Ощадбанку
+    </li>
+</ul>
   <p>Для оплати послуги розподілу природного газу перейдіть за посиланням <a href="https://kyivgaz.ua/oplata-za-poslugi.html">https://kyivgaz.ua/oplata-za-poslugi.html</a></p>
   <p>Якщо ви маєте заборгованість перед ПАТ «Київгаз» , яка накопичилася до червня 2015 року включно, її необхідно сплатити на окремий рахунок. Для цього <a href="https://next.privat24.ua/payments/form/%7B%22token%22:%227113031bd0c15b8e57a5bcef0e3257bc%22%7D?lang&quot; target=">перейдіть за посиланням</a>.</p>
   <!--<table>
