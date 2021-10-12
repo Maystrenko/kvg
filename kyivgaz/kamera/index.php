@@ -330,7 +330,7 @@ div.mod_search246 input[type="search"]{ width:auto; }
 <p></p>
 <div class="content"><span class="desc">(097) 495-11-04;</span></div>
 <p></p>
-<div class="content"><span class="desc"><!-- Цю адресу електронної пошти захищено від спам-ботів. --><span class="cloaked_email ep_997349e9"><span data-ep-b3e1b=".&#117;&#97;" data-ep-a86a9="co&#110;"><span data-ep-a86a9="&#116;&#97;&#99;" data-ep-b3e1b="&#103;&#97;z"><span data-ep-a86a9="t&#64;k" data-ep-b3e1b="&#121;&#105;v"></span></span></span></span><script type="text/javascript">emailProtector.addCloakedMailto("ep_997349e9",0);</script></span></div>
+<div class="content"><span class="desc">contact@kyivgaz.ua</span></div>
 </div></div>
 
 		    </div>

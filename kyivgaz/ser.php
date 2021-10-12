@@ -189,7 +189,7 @@ div.mod_search246 input[type="search"]{ width:auto; }
 	            <div id="jm-logo-sitedesc">
 	                	                <h1 id="jm-logo">
 	                    <a href="https://kyivgaz.ua/" onfocus="blur()">
-	                        	                        <img src="https://kyivgaz.ua/images/logo.png" alt="АТ «Київгаз» – лідер серед 42 регіональних газових господарств України."/>
+	                        	                        <img src="https://kyivgaz.ua/images/logo_RGB_mini2.png" alt="АТ «Київгаз» – лідер серед 42 регіональних газових господарств України."/>
 	                        	                    </a>
 	                </h1>
 	                	                	            </div>
@@ -277,7 +277,7 @@ div.mod_search246 input[type="search"]{ width:auto; }
 												</h2>
 							</div>
 							<p>Шановний клієнте! Якщо Вам необхідно надати документи для підтвердження готовності Вашого об’єкта до пуску газу, запишіться, будь ласка, на прийом до управління експлуатації газорегулюючих пунктів та газифікованих котелень АТ «Київгаз» за адресою: <strong>пров. Задорожн</strong><strong>ий, 3 корп. 1</strong>.</p>
-		<p>Графік прийому: понеділок – п’ятниця з 10 до 16 год (обід з 13 до 14 год). Зверніть увагу, що один запис на прийом – це один об’єкт. Якщо Ви надаєте документи по декількох об’єктах, забронюйте необхідну кількість часу. Додаткова інформація за номером: (067) 558-29-57. Перелік необхідних документів можете переглянути за посиланням: <a href="https://kyivgaz.ua/images/poperedjennya.pdf" target="_blank"> https://kyivgaz.ua/images/poperedjennya.pdf </a></p>
+		<p>Графік прийому: вівторок та четвер з 10 до 16 год (обід з 13 до 14 год). Зверніть увагу, що один запис на прийом – це один об’єкт. Якщо Ви надаєте документи по декількох об’єктах, забронюйте необхідну кількість часу. Додаткова інформація за номером: (067) 558-29-57. Перелік необхідних документів можете переглянути за посиланням: <a href="https://kyivgaz.ua/images/poperedjennya.pdf" target="_blank"> https://kyivgaz.ua/images/poperedjennya.pdf </a></p>
 		<p><strong>Важливо!</strong> Під час візиту до управління дотримуйтеся запобіжних заходів проти поширення COVID-19: обов’язково вдягайте маску, тримайте дистанцію 1,5 м.</p>
 <br>
 								<div id="articleKg" itemprop="articleBody" style="margin:auto;">
@@ -333,7 +333,7 @@ div.mod_search246 input[type="search"]{ width:auto; }
 <p></p>
 <div class="content"><span class="desc">(097) 495-11-04;</span></div>
 <p></p>
-<div class="content"><span class="desc"><!-- Цю адресу електронної пошти захищено від спам-ботів. --><span class="cloaked_email ep_997349e9"><span data-ep-b3e1b=".&#117;&#97;" data-ep-a86a9="co&#110;"><span data-ep-a86a9="&#116;&#97;&#99;" data-ep-b3e1b="&#103;&#97;z"><span data-ep-a86a9="t&#64;k" data-ep-b3e1b="&#121;&#105;v"></span></span></span></span><script type="text/javascript">emailProtector.addCloakedMailto("ep_997349e9",0);</script></span></div>
+<div class="content"><span class="desc">contact@kyivgaz.ua</span></div>
 </div></div>
 
 		    </div>
