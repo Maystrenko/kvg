@@ -368,7 +368,7 @@ div.mod_search246 input[type="search"]{ width:auto; }
 
 
 <div class="custom">
-	<p><a href="https://kyivgaz.ua/"><img src="/images/footer_logo.png" width="213" height="43"/></a></p>
+	<p><a href="https://kyivgaz.ua/"><img src="/images/logo_RGB_mini2.png" width="213" height="43"/></a></p>
 <p style="margin-top: 10px;"></p></div>
 
 		    </div>
